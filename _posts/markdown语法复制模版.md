@@ -5,7 +5,6 @@ date: 2024-03-30 19:00:00 +0800
 categories: [模版]
 tags: [markdown, 模版, jekyll]
 excerpt: "这是文章的预览内容"
-# 也可以使用<!--more-->进行截断
 ---
 ## 段落
 
